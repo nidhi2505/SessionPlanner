@@ -1,0 +1,11 @@
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.exe.config
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.exe
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.pdb
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.csprojAssemblyReference.cache
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.csproj.CoreCompileInputs.cache
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.exe
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.pdb
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\Autofac.dll
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\Autofac.pdb
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\Autofac.xml
+C:\TFS\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.csproj.CopyComplete
